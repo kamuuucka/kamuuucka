@@ -1,4 +1,4 @@
-[![Jason Lengstorf has a lot of ideas.](https://imgur.com/a/e0ZDb6O)](https://www.jason.af)
+[![plamczak66 banner](https://imgur.com/a/e0ZDb6O)](https://www.jason.af)
 
 ### Hi there
 
