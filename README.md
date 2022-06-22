@@ -1,4 +1,4 @@
-[![plamczak66 banner][(https://imgur.com/a/QNfgonM)](https://plamczak66.itch.io)
+[![Jason Lengstorf has a lot of ideas.](https://res.cloudinary.com/jlengstorf/image/upload/f_auto,g_auto/v1593579116/jason.af/og-image.jpg)](https://www.jason.af)
 
 ### Hi there
 
