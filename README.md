@@ -1,4 +1,4 @@
-![linkedin_banner](https://user-images.githubusercontent.com/44843812/175114504-988c6e43-88e8-4a61-b96a-6ae91f0b8eab.png)(https://plamczak66.itch.io)
+[![linkedin_banner](https://user-images.githubusercontent.com/44843812/175114504-988c6e43-88e8-4a61-b96a-6ae91f0b8eab.png)](https://plamczak66.itch.io)
 
 
 ### Hi there
