@@ -1,3 +1,5 @@
+[(https://imgur.com/a/QNfgonM)](https://plamczak66.itch.io)
+
 ### Hi there
 
 My name is Kamila and I am trying my best to become a game developer. I am currently studying at Saxion University and following the Creative Media and Game Technologies course. I really enjoy programming in high school, so I chose my path as an engineer.
