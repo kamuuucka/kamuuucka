@@ -1,4 +1,4 @@
-[!(https://imgur.com/a/QNfgonM)](https://plamczak66.itch.io)
+[![plamczak66 banner][(https://imgur.com/a/QNfgonM)](https://plamczak66.itch.io)
 
 ### Hi there
 
