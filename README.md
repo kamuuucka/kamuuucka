@@ -13,15 +13,21 @@ Here you can see my works for school projects or my individual work. If you dig 
 - Check my LinkedIn to see my experience: https://www.linkedin.com/in/kamila-matuszak-4b9556224/
 
 ### My most recent projects
-| BURN THE MOB | FIRE AND FIGHTER | CALL OF SNAIL |
-|[![FInal_StartScreen](https://user-images.githubusercontent.com/44843812/175115593-4cfc9dde-a641-4f3e-b088-c7e05082e753.png)](https://plamczak66.itch.io/burn-the-mob)|[![main_menu_BG](https://user-images.githubusercontent.com/44843812/175115807-b9687554-c817-4067-910e-2d89c9090f7a.png)](https://plamczak66.itch.io/fire-and-fighter)|[![poster_for_Cama](https://user-images.githubusercontent.com/44843812/175114898-9a329e46-50f9-4af9-8659-9d9ff1413b9c.png)](https://plamczak66.itch.io/call-of-snail)|
-|[Link to repository](https://github.com/Barth0l0m3w/projeft-final-approach)|[Link to repository](https://github.com/kamuuucka/project_lift_off)| |
-|### My work during the project:
+[![FInal_StartScreen](https://user-images.githubusercontent.com/44843812/175115593-4cfc9dde-a641-4f3e-b088-c7e05082e753.png)](https://plamczak66.itch.io/burn-the-mob)
+[Link to repository](https://github.com/Barth0l0m3w/projeft-final-approach)
+### My work during the project:
 - Collisions with objects
 - Implementing physics
-- Objects' abilities|### My work during the project:
+- Objects' abilities
+
+[![main_menu_BG](https://user-images.githubusercontent.com/44843812/175115807-b9687554-c817-4067-910e-2d89c9090f7a.png)](https://plamczak66.itch.io/fire-and-fighter)
+[Link to repository](https://github.com/kamuuucka/project_lift_off)
+### My work during the project:
 - Whole programming
-- Programming the custom controler|### My work during the project:
+- Programming the custom controler
+
+[![poster_for_Cama](https://user-images.githubusercontent.com/44843812/175114898-9a329e46-50f9-4af9-8659-9d9ff1413b9c.png)](https://plamczak66.itch.io/call-of-snail)
+### My work during the project:
 - Drag and drop (actaully click and click) method
 - Collisions
 - Interactives|
