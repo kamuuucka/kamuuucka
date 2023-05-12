@@ -12,7 +12,6 @@
 
 <h1>Projects</h1>
 <h2>Most recent</h2>
-![Project Show-Off](https://github.com/kamuuucka/kamuuucka/assets/44843812/d3f40488-c3aa-4f49-8a5b-7167ab4d1941)
 
 <!--
 **kamuuucka/kamuuucka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
