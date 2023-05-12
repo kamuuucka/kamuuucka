@@ -12,9 +12,13 @@
 
 <h1>Projects</h1>
 <h2>Most recent</h2>
-|       |     |
-| :---: | ---:|
-| <img src="./assets/showOff.png"> | Project description|
+
+
+| Project name | My contribution |
+| ------------- | ------------- |
+| <img src="./assets/showOff.png">  | <ul><li>Creating a world generation</li> <li>Creating task list</li>  |
+| Content Cell  | Content Cell  |
+
 <!--
 **kamuuucka/kamuuucka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
