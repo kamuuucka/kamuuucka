@@ -11,13 +11,15 @@
 </ul>
 
 <h1>Projects</h1>
-<h2>Most recent</h2>
 
-
-| Project name | My contribution |
-| ------------- | ------------- |
-| <img src="./assets/showOff.png">  | <ul><li>Creating a world generation</li> <li>Creating task list</li>  |
-| Content Cell  | Content Cell  |
+| Project name | My contribution | Links |
+| ------------- | ------------- | ------------- |
+| <img src="./assets/showOff.png" width="300px">  | <ul><li>Creating a world generation</li> <li>Creating task list</li>  | Link to repo |
+| <img src="./assets/innovation.png" width="300px">  | <ul><li>⭐️ Lead Engineer</li><li>Networking connection</li><li>Cameras movement</li> | Link to repo |
+| <img src="./assets/smartBoats.png" width="300px">  | <ul><li>AI and genetics research</li> | Link to repo |
+| <img src="./assets/startUp.png" width="300px">  | <ul><li>⭐️ Lead Engineer</li><li>Letters generation</li><li>Connection between words and animation</li> | Link to repo |
+| <img src="./assets/finalApproach.png" width="300px">  | <ul><li>⭐️ Lead Engineer</li><li>Physics</li><li>Sprites placement</li> | Link to repo |
+  
 
 <!--
 **kamuuucka/kamuuucka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
