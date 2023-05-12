@@ -12,7 +12,9 @@
 
 <h1>Projects</h1>
 <h2>Most recent</h2>
-<img src="./assets/showOff.png">
+|       |     |
+| :---: | ---:|
+| <img src="./assets/showOff.png"> | Project description|
 <!--
 **kamuuucka/kamuuucka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
