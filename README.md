@@ -19,6 +19,7 @@
 | <img src="./assets/smartBoats.png" width="300px">  | <ul><li>AI and genetics research</li> | Link to repo |
 | <img src="./assets/startUp.png" width="300px">  | <ul><li>⭐️ Lead Engineer</li><li>Letters generation</li><li>Connection between words and animation</li> | Link to repo |
 | <img src="./assets/finalApproach.png" width="300px">  | <ul><li>⭐️ Lead Engineer</li><li>Physics</li><li>Sprites placement</li> | Link to repo |
+| <img src="./assets/gameJamBugs.png" width="300px"> | <ul><li>⭐️ Only Engineer </li><li>Concepting</li> | [Itchi.io](https://plamczak66.itch.io/buggle) |
   
 
 <!--
